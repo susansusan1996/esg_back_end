@@ -1,0 +1,9 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /esg
+
+key:
+
+url:
+  cors-url: http://localhost:5173

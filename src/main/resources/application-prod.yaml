@@ -1,0 +1,10 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /esg
+
+key:
+
+
+url:
+  cors-url: https://susansusan1996.github.io/esg/
